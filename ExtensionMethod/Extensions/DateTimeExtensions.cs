@@ -6,8 +6,8 @@ namespace System
     {
         /// <summary>
         /// A classe estática, implementando um método estático,
-        /// recebendo como parâmetro o tipo ao qual se deseja fazer o 
-        /// extension method
+        /// recebendo como 1º argumento o tipo ao qual se deseja fazer o 
+        /// extension method. Caso tenha mais argumentos é só acrescentar conforme a necessidade
         /// </summary>
         /// <param name=""></param>
         /// <returns></returns>
